@@ -1,0 +1,14 @@
+.row{
+    background: whitesmoke;
+    margin-top: 5px;
+}
+.container{border: 1px solid whitesmoke; margin-top: 20px;border-radius: 4px}
+.form-horizontal{ margin-top: 30px;}
+.nama,.alamat,.email{
+    padding-left: 50px;
+}
+h3{border-bottom: 1px solid whitesmoke;padding-left: 5px}
+.ht{border-bottom: 1px solid white}
+
+/*table*/
+.container2{border: 1px solid whitesmoke; margin: 20px;border-radius: 4px;padding-left: 4px;background: whitesmoke}
